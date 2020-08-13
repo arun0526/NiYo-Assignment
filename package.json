@@ -1,0 +1,23 @@
+{
+  "name": "niyo-api-server",
+  "version": "1.0.0",
+  "description": "API server created for the purpose of assignment for candidates",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "api",
+    "server",
+    "assignment"
+  ],
+  "author": "Sarath Nair",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
